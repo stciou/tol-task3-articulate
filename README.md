@@ -3,4 +3,4 @@
 
 **Andrew ID: sciou**
 
-**Please check the gh-pages**
+Please check the gh-pages branch
